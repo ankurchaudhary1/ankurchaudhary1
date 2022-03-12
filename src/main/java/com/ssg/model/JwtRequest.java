@@ -1,4 +1,4 @@
-package com.javainuse.model;
+package com.ssg.model;
 
 import java.io.Serializable;
 

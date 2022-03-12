@@ -1,4 +1,4 @@
-package com.javainuse.controller;
+package com.ssg.controller;
 
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.RequestMapping;
